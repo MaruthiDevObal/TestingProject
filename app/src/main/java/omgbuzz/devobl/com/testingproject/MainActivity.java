@@ -50,6 +50,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.draging:
                 startActivity(new Intent(MainActivity.this, ViewDragingActivity.class));
+
+
                 
                 break;
             case R.id.colorpicker:
